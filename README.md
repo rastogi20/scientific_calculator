@@ -4,7 +4,7 @@
 #change to dark mode 
 ![image](https://github.com/rastogi20/scientific_calculator/assets/149312261/51698dea-e781-4a76-b4b0-9a093b91e771)
 
-TO VIEW ON THE PROJECT CLICK HERE:-
+TO VIEW THE PROJECT CLICK HERE:-
 
 https://66753a96769ada3ec958e213--delightful-druid-c11796.netlify.app/
 
